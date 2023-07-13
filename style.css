@@ -1,0 +1,95 @@
+.flex-lg-row-reverse{
+  height: 50%;
+}
+
+
+.feature{
+  margin-top: 200px;
+}
+.img-fluid{
+  margin-left: 150px;
+  margin-bottom: -250px;
+}
+.new{
+margin-top: -700px;
+}
+.lead{
+  width:30%;
+}
+.fs-2 {
+  font-size: small;
+  width: 60%;
+}
+.align-items-center{
+  background-color: none;;
+}
+.btn{
+  background-color: aqua;
+  width: 600px;
+  margin-bottom: 600px;
+  
+}
+.align-items-center{
+  display:inline;
+}
+.cov{
+  height: 50px;
+  width: 50px;
+}
+p{
+  font-size: x-large;
+  width: 25%;
+}
+.question1{
+  width: 200px;
+}
+.btn-primary{
+  width: 200px;
+}
+.gap-2{
+  margin-top: 100px;
+  margin-bottom: 200px;
+}
+.styling{
+  color:white;
+  text-decoration: none;
+}
+
+/* /////////probablity///// */
+.logo{
+  background-color:lightgrey;
+  height: 40px;
+  width: 100%;
+
+}
+.logoimage{
+  width:60px;
+  position: relative;
+}
+.probablity1{
+  font-weight: bolder;
+}
+.probablity2{
+  font-size: small;
+  width: 60%;
+}
+/* ////////////covid//// */
+.covid1{
+  font-size: smaller;
+  width: 60%;
+}
+
+/* //////////////// */
+.symptoms{
+  margin-top: 20px;
+}
+.img-fluid{
+  height: 100px;
+  width: 100px;
+  margin-top: 30px;
+  display:inline;
+}
+.col-md-4{
+  display:flex;
+  display:inline;
+}
